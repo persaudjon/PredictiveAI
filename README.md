@@ -21,7 +21,7 @@ the lander crashes (the lander body gets in contact with the moon);
 
 the lander gets outside of the viewport (x coordinate is greater than 1);
 
-#Reward explained
+# Reward explained
 For each step, the reward:
 
 is increased/decreased the closer/further the lander is to the landing pad.
